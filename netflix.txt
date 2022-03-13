@@ -1,0 +1,39 @@
+Thank you for buying - Bix
+
+Product:
+Netlfix Method
+
+Requirements:
+* An OTP
+* Airtel thanks application
+* And ExpressVPN or VyprVPN.
+
+
+
+Lets Start:
+* Simply connect VPN to Switzerland go to netflix.com
+(firefox focus browser preferred)
+
+* Select the desired email and pack.
+
+* And select the credit /debit card option.
+
+
+
+NOW coming to main part.
+
+* Download Airtel Thanks App(PlayStore)
+* Register with any new number and follow some necessary steps of getting a virtual debit card
+(if ask for pan card and details fill random it doesnt verify it)
+
+
+
+Now once you get the card...
+* As we were on the payment page.
+* Disconnect VPN when you start entering card details
+* Enter card details from airtel VCC.
+* Click on continue
+* Verify card.
+* OTP will come on the number phone.
+* Just type OTP...
+* Connect the VPN again to Switzerland and boom your Netflix is ready.

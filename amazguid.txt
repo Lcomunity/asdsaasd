@@ -1,0 +1,51 @@
+karty: 6045781119948577
+6045781151252144
+60457811r39878424
+6045781188423148
+6045781194259155
+6045781113947245
+6045781146544381
+6045781118347979
+
+user:MarkRGriffin@rhyta.com
+pass:ekkoree#1234
+
+
+method
+Directions:
+-log into your Amazon account of choice (I recommend that it's not a main account) on your home IP or on LTE, do not use a VPN
+-click "Account and Lists"
+-click "Payment Options"
+-in "Credit Cards and Debit Cards", click add a new card
+-MANUALLY TYPE IN THE CARD NUMBERS, DO NOT COPY PASTE, and make sure the name you put in is the name that the Amazon account is registered under
+-put in any billing address & set it as your default payment method
+-Wait AT LEAST 7 days before making a purchase after adding the card but the longer you wait, the better
+-Go in increments when purchasing.
+    Suggested Increments:
+    - First Purchase should be $20 or less
+    - Second Purchase can be $50 or less
+    - Third Purchase can be $100 or less
+    - Fourth Purchase should be less than 200$
+so on so forth. 
+
+Tips:
+-ONLY BUY PHYSICAL PRODUCTS; virtual products, ebooks, egift cards WILL LOCK YOUR ACCOUNT
+-remove any actual cards so they don't get locked in case your account is placed on hold
+-after making an order, wait for 2 to 3 days after the item actually ships (i.e you have it in your hands) to your house/location before making another purchase.
+-having consistent activity. This is very important. Browsing Amazon every day for a few minutes (like 20 or so), adding items to your cart and removing them, debating between purchases, and showing general engagement can up your chances of this working.
+-ONLY BUY GIFTABLE ITEMS. A fast way to check this is, go to an amazon item, look at its purchase section, and find an option labeled "Add a gift receipt for easy returns." These items ARE giftable and are purchasable on the card. 
+-Buy Items from your List. Steps are below:
+    -To add an item to your list, navigate to that item and scroll down until you see the "Add to list" option.
+    https://imgur.com/a/CE5FZDk
+    -Then, just click add to list/hit the arrow and add it to a custom list you made via the icon there.
+    https://imgur.com/a/yayra8C
+    -To navigate to your list, hit the "account" icon at the top right and hit "Your lists".
+    https://imgur.com/a/WvfMWNM
+    - Then, open up your list you have added the item you want to purchase.
+    https://imgur.com/a/JMlSLMV
+    - Now, click add to cart FROM THE LIST PAGE. After that, the button should change into "Proceed to checkout." Click that. (note, you can also hit "This is a gift" on the same page to save some time that way.)
+    https://imgur.com/a/SxTyhER
+    - Now, go through the normal purchasing steps. These are very easy to follow, and when prompted to make the item a gift do so.
+    https://imgur.com/a/usrbiyb
+-Buy to an amazon locker box or us a reship service. Nothing bad will happen if you ship to your house, but I'm sure Amazon keeps a log of all this stuff and it's just not good imo
+-Purchase products sold AND shipped by amazon for the highest chance of the order succeeding

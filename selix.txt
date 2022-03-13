@@ -1,0 +1,72 @@
+Thank you for buying - Bix
+
+Product:
+Bix Sellix Setup
+
+Guide:
+
+First of all, you want to understand the concept of selling. To make money you don't just have to rush and think about money only. The plan is to make a business and get it to success is the real idea of selling. You do not want to scam people and make your reputation worse; you need to be legitimately trusted and earn peoples trust.
+
+User Category:
+First of all, you have to set up the settings.
+General Settings is the info for the account.
+Personal details are optional.
+Security is where you change your password and set up 2fa. It also has an API key that you can use for bots and developments.
+Notifications are optional as well.
+
+Shop Category:
+General is where you change the currency and your shop message which is important for the people who visit your shop, they have to feel welcomed, so make a nice pop-up message.
+Terms is where you state your rules of your shop.
+Payments is where you set up the payment methods to get the money.
+Cryptocurrencies are optional.
+Shopping cart is broken for now leave it.
+Subscriptions are optional as well.
+Design is what attracts people the most. You can set up the design of the products and your shop in general.
+Managers is if you want to have someone manage your shop
+
+
+Alright, to start making products, head to 'Products' -> Create Product.
+Fill in the info and make sure to tick the Payments
+
+Product types:
+File: Attach file as product.
+Serials: can be used to sell accounts, licenses, keys, gift cards, etc. Your customers will receive one unit of your product. Make sure to select a delimiter when setting the Product Type as "Serials". The delimiter can be a new line, a comma, or any other customer character.
+Service: It is used for manual deliveries such as accounts, and other stuff
+Dynamic and subscriptions aren't really used
+
+Additional Details:
+You can include warranty
+Fraud detection store: Put that to 100 its better so sellix doesn't block transactions
+
+That's basically the basics of Sellix. Now you need to make your shop viral. I explain all of this in my *Selling package* I will include ways and stuff to get your shop viral fast. So I say consider getting it https://bixx.sellix.io/product/62028066dbb8a
+
+Thank you for buying this Sellix set up, I hope to see you in the Selling Package if you consider it :)
+
+=============================================================================
+
+Products:
+
+=============================================================================
+Verified PayPal Method
+
+1. Use a Canada VPN IP, If your already living in Canada this shouldn't be a issue.
+2. Sign up as you normally should but make sure to be using a Canada IP and Canada Address on the PayPal.
+3. Once you sign up you should not be require any id identification, fill in cc's, or link a bank.
+4. Make sure to verify your email, and if you want you can add a cc.
+
+Note: You will have CAD currently which less money than USD but its better to have a verified paypal than unverified and cant spend no shit.
+
+Why This Works?
+
+Canada has different laws so for some reason do identification is needed.
+=============================================================================
+Web generators:
+https://h-gen.to/
+https://a-gen.xyz/
+https://leak.sx/
+=============================================================================
+Discord-Server-Cloner
+link: https://mega.nz/file/TgdBhaRQ
+key: Ru2VVs-YSpOn3av7uUQq0V1zlZ4BZk0dZmEgeQMmvOc 
+
+=============================================================================
